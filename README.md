@@ -12,9 +12,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/ASP.NET-blue?style=flat-square&logo=dotnet">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 </p>
 
 ---
@@ -47,7 +47,7 @@
 
 ### 🗄️ Bases de datos
 - SQL Server *(Intermedio)*
-- MariaDB *(Intermedio)*
+- MariaDB / MySQL *(Intermedio)*
 
 ---
 
@@ -68,7 +68,7 @@
 <div align="center">
 <img src="https://via.placeholder.com/400x220.png?text=Sistema+Administrativo" width="400" alt="Sistema Administrativo">
 <p>
-<a href="https://github.com/TU_USERNAME/nombre-del-repo" target="_blank">
+<a href="https://github.com/NelsonChavarria777/nombre-del-repo" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ASP.NET-blue?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
@@ -85,7 +85,7 @@ y una estructura escalable.
 <div align="center">
 <img src="https://via.placeholder.com/400x220.png?text=API+Backend" width="400" alt="API Backend">
 <p>
-<a href="https://github.com/TU_USERNAME/nombre-del-repo" target="_blank">
+<a href="https://github.com/NelsonChavarria777/nombre-del-repo" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-API-green?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
