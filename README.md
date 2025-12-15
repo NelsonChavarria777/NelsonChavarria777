@@ -10,11 +10,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ASP.NET-blue?style=flat-square&logo=dotnet">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <!-- Tech Stack Badges -->
+  <img alt="ASP.NET" src="https://img.shields.io/badge/ASP.NET-0062AD?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+  <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
 </p>
 
 ---
@@ -35,11 +36,11 @@
 - HTML *(Intermedio)*
 - CSS *(Intermedio)*
 - JavaScript *(Intermedio)*
-- React *(Intermedio–Avanzado)*
+- React *(Intermedio)*
 - Angular *(Básico)*
 
 ### ⚙️ Backend
-- ASP.NET *(Intermedio–Avanzado)*
+- ASP.NET *(Intermedio)*
 - PHP *(Básico)*
 - C# *(Básico)*
 - Java *(Básico)*
