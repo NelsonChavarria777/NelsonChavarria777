@@ -112,10 +112,10 @@ y buenas prácticas de backend.
 
 <p align="center">
   <!-- Stats generales -->
-  ![Aarón GitHub Stats](https://github-readme-stats.vercel.app/api?username=NelsonChavarria777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+  <img src="https://github-readme-stats.vercel.app/api?username=NelsonChavarria777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="400" />
 
   <!-- Lenguajes más usados -->
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonChavarria777&layout=compact&langs_count=8&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonChavarria777&layout=compact&langs_count=8&theme=tokyonight" width="400" />
 </p>
 
 ---
