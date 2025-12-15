@@ -102,16 +102,16 @@ y buenas prácticas de backend.
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: https://linkedin.com/in/TU_PERFIL
-- 📧 Email: tucorreo@email.com
+- 💼 LinkedIn: [https://linkedin.com/in/Aaron-Chavarria-Berrocal](https://www.linkedin.com/in/aaron-chavarr%C3%ADa-berrocal-74177b38a/)
+- 📧 Email: aarondchb@gmail.com
 
 ---
 
 ### ⚙️ GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NelsonChavarria777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelsonChavarria777&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---
