@@ -67,7 +67,7 @@
 <td width="50%">
 <h3 align="center">Somos Holistique - Página Web</h3>
 <div align="center">
-<img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop,q=95/AE0aZZnJx9T115z3/logo_holistique_1-1-Y4LxNNWLvXu9KV37.png" width="400" alt="Holistique Web">
+<img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop,q=95/AE0aZZnJx9T115z3/logo_holistique_1-1-Y4LxNNWLvXu9KV37.png" height="100" alt="Holistique Web">
 <p>
 <a href="https://github.com/NelsonChavarria777/somosholistique" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-React-blue?style=for-the-badge&logo=github&logoColor=white">
