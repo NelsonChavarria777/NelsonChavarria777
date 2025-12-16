@@ -65,26 +65,30 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Sistema Administrativo</h3>
+<h3 align="center">Somos Holistique - Página Web</h3>
 <div align="center">
-<img src="https://via.placeholder.com/400x220.png?text=Sistema+Administrativo" width="400" alt="Sistema Administrativo">
+<img src="https://via.placeholder.com/400x220.png?text=Holistique+Web" width="400" alt="Holistique Web">
 <p>
-<a href="https://github.com/NelsonChavarria777/nombre-del-repo" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ASP.NET-blue?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://github.com/NelsonChavarria777/somosholistique" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-React-blue?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://somosholistique.com" target="_blank">
+<img src="https://img.shields.io/badge/Ver%20en%20Web-green?style=for-the-badge">
 </a>
 </p>
 <p>
-Sistema administrativo desarrollado con <strong>ASP.NET</strong> y 
-<strong>SQL Server</strong>, enfocado en operaciones CRUD, validaciones 
-y una estructura escalable.
+Página web desarrollada con <strong>React</strong> y <strong>MySQL</strong> (PHPMyAdmin), 
+diseñada para gestionar información y mostrar contenido de manera interactiva. 
+Incluye conexión a base de datos, formularios y gestión de usuarios.
 </p>
 </div>
 </td>
 
+
 <td width="50%">
 <h3 align="center">API Backend</h3>
 <div align="center">
-<img src="https://via.placeholder.com/400x220.png?text=API+Backend" width="400" alt="API Backend">
+<img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop,q=95/AE0aZZnJx9T115z3/logo_holistique_1-1-Y4LxNNWLvXu9KV37.png" width="400" alt="API Backend">
 <p>
 <a href="https://github.com/NelsonChavarria777/nombre-del-repo" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-API-green?style=for-the-badge&logo=github&logoColor=white">
