@@ -67,7 +67,7 @@
 <td width="50%">
 <h3 align="center">Somos Holistique - Página Web</h3>
 <div align="center">
-<img src="https://via.placeholder.com/400x220.png?text=Holistique+Web" width="400" alt="Holistique Web">
+<img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop,q=95/AE0aZZnJx9T115z3/logo_holistique_1-1-Y4LxNNWLvXu9KV37.png" width="400" alt="Holistique Web">
 <p>
 <a href="https://github.com/NelsonChavarria777/somosholistique" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-React-blue?style=for-the-badge&logo=github&logoColor=white">
@@ -88,7 +88,7 @@ Incluye conexión a base de datos, formularios y gestión de usuarios.
 <td width="50%">
 <h3 align="center">API Backend</h3>
 <div align="center">
-<img src="https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop,q=95/AE0aZZnJx9T115z3/logo_holistique_1-1-Y4LxNNWLvXu9KV37.png" width="400" alt="API Backend">
+<img src="" width="400" alt="API Backend">
 <p>
 <a href="https://github.com/NelsonChavarria777/nombre-del-repo" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-API-green?style=for-the-badge&logo=github&logoColor=white">
